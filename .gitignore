@@ -161,4 +161,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Pycharn files
+
+.idea/
+
 # End of https://www.gitignore.io/api/python,jupyternotebooks
+
+
