@@ -1,6 +1,17 @@
 Why R? 2019 hackathon
 ================
+# Work of out team
 
+## Script generating csv
+
+Python, pandas requeired. 
+(pip install pandas)
+write in console:
+python scripts/pkl_generator.py
+in folder data will appear data.csv
+
+
+# Official description of the event
 This repository hosts data and scripts for Data Visualizations Hackathon ![](http://whyr.pl/foundation/images/fulls/whyr2019/hackathon/plakat_hackathon2.jpg)
 
 -   [Event Details](#event-details)
@@ -177,4 +188,4 @@ Grading Criteria
     -   Is there a clear business problem/story that you are explaining using your visualizations? (0-10)
     -   How attractive is the use case? (0-5)
 -   PRESENATION
-    -   How well are you able to present your solution? (0-15)
+    -   How well are you able to present your solution? (0-15
