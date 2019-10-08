@@ -1,5 +1,5 @@
-Why R? 2019 hackathon project 
-================
+# Why R? 2019 hackathon project 👋
+## Description ✨
 
 This repository contains our solution during WhyR hackaton 2019.
 
@@ -10,23 +10,20 @@ Data provided by hackaton organizers contains various places located in Warsaw, 
 We performed analysis and visualisation to exclude unimportant columns and data with missing values.
 
 
-Features
-================
+## Features 🎨
 * occupancy index  with filter by days, hours of
 * 4 class of places: dentist, doctor, hospital, pharmacy
 * background of map- population density
 
-Usage
-===============
-Our tool is available on the link:
+## Usage 🚀
+Our tool is available on the link 🌏:
 
 https://bezpieczenstwo.maps.arcgis.com/apps/webappviewer/index.html?id=ed0a2d0207b94cf48ab241ebb5a64f2d
 <p align="center">
   <img width="600" height="600" src="readme.gif">
 </p>
 
-For Developers
-===============
+## For Developers 
 ### R
 Data Engineering part is located in scripts directory. Most part of work was done in R - it creates some charts and output places_healthcare.csv. 
 ### Python
@@ -36,8 +33,14 @@ Finally popular times is merged with places_healthcare.csv - its output is data.
 ### ArcGIS
 Awesome visualization is done by merging data.csv file with external data - population density.
 
-Event Details
-=============
+## Authors
+👤 **Monika Kwiatkowska**
+👤 **Bartłomiej Karaban**
+👤 **Monika Krzyżanowska**
+👤 **Michał Miotk**
+
+
+## Event Details
 
 -   Website: [whyr.pl/2019/hackathon](http://whyr.pl/2019/hackathon)
 -   Place: Faculty of Economic Sciences, University of Warsaw
